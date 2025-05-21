@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
