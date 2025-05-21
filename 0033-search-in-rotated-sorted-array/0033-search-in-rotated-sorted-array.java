@@ -16,43 +16,21 @@ class Solution {
     }
     public int search(int[] arr, int target) {
         int n = arr.length;
-        int lo = 1;
-        int hi = n-2;
-        int pvoit = -1;
-        if(n<=2){
-            for(int i=0; i<n; i++){
-                if(arr[i] == target){
-                    return i;
-                }
-            }
-            return -1;
-        }
-        while(lo<=hi){
-            int mid = lo+(hi-lo)/2;
-            if(arr[mid]>arr[mid+1] && arr[mid]>arr[mid-1]){
-                pvoit = mid;
+        int idx = -1;
+
+        for(int i=0; i<n-1; i++){
+            if(arr[i] > arr[i+1]){
+                idx = i;
                 break;
             }
-            else if(arr[mid]<arr[mid+1] && arr[mid]<arr[mid-1]){
-                pvoit = mid-1;
-                break;
-            }
-            else if(arr[mid]>arr[mid-1] && arr[mid]<arr[mid+1]){
-                if(arr[mid]>arr[n-1]){
-                    lo = mid+1;
-                }
-                else{
-                    hi = mid-1;
-                }
-            }
         }
-        if(pvoit == -1){
-            // apply binary search
-            return bs(arr,0,n-1,target);
-        }
-        int left = bs(arr,0,pvoit,target);
+
+        int left = bs(arr, 0, idx, target);
+        int right = bs(arr, idx+1, n-1, target);
+
         if(left != -1) return left;
-        int right = bs(arr,pvoit+1,n-1,target);
-        return right;
+        if(right != -1) return right;
+
+        return -1;
     }
 }
