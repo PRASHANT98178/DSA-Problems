@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0078-subsets) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -52,4 +54,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0078-subsets) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
