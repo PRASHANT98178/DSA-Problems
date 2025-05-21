@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
