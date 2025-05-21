@@ -8,10 +8,12 @@
 | [0039-combination-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0078-subsets) |
+| [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
 ## Tree
 |  |
 | ------- |
@@ -58,4 +60,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
