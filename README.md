@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
@@ -43,6 +44,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1013-fibonacci-number) |
@@ -83,6 +85,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0042-trapping-rain-water) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -91,4 +94,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
