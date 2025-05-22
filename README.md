@@ -15,6 +15,7 @@
 | [0078-subsets](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0238-product-of-array-except-self) |
@@ -84,6 +85,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
