@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0152-maximum-product-subarray) |
@@ -49,6 +50,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1013-fibonacci-number) |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
