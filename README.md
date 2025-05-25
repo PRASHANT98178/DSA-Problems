@@ -20,6 +20,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [1677-matrix-diagonal-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,4 +118,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0055-jump-game) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
