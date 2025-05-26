@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0985-bag-of-tokens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0985-bag-of-tokens) |
 | [1677-matrix-diagonal-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0985-bag-of-tokens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0985-bag-of-tokens) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0985-bag-of-tokens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0985-bag-of-tokens) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -122,6 +125,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0985-bag-of-tokens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0985-bag-of-tokens) |
 ## Matrix
 |  |
 | ------- |
