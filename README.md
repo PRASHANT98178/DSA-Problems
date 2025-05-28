@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
@@ -57,6 +58,7 @@
 | [0042-trapping-rain-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0152-maximum-product-subarray) |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
