@@ -1,6 +1,4 @@
 public class Solution {
-  
-
     public int helper(int i, int j, String s, String t, int[][] dp) {
         if (i >= s.length() || j >= t.length()) return 0;
 
@@ -8,7 +6,8 @@ public class Solution {
 
         if (s.charAt(i) == t.charAt(j)) {
             dp[i][j] = 1 + helper(i + 1, j + 1, s, t, dp);
-        } else {
+        } 
+        else {
             dp[i][j] = Math.max(helper(i + 1, j, s, t, dp), helper(i, j + 1, s, t, dp));
         }
 
@@ -18,7 +17,7 @@ public class Solution {
     public int longestCommonSubsequence(String text1, String text2) {
         int m = text1.length();
         int n = text2.length();
-        int[][] dp = new int[m][n];
+        int[][] dp = new int[m+1][n+1];
 
        
         for (int i = 0; i < m; i++) {
