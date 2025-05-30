@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -109,6 +110,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0042-trapping-rain-water) |
@@ -136,6 +138,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0055-jump-game) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0985-bag-of-tokens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0985-bag-of-tokens) |
