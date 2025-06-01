@@ -1,7 +1,8 @@
 class Solution {
     public int helper(int i, int amount, int[] coins, int[][] dp) {
         if (i == 0) {
-            return (amount % coins[0] == 0) ? 1 : 0;
+            if(amount % coins[0] == 0) return 1;
+            else return 0;
         }
         
         if (dp[i][amount] != -1) return dp[i][amount];
