@@ -25,6 +25,7 @@
 | [0198-house-robber](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0322-coin-change) |
@@ -37,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 ## Tree
 |  |
 | ------- |
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [1250-longest-common-subsequence](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1250-longest-common-subsequence) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
