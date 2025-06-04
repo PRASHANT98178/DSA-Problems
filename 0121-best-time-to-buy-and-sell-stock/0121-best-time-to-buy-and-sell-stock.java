@@ -4,14 +4,16 @@ class Solution {
         int maxProfit = 0;
 
         for(int price : arr){
-            if(price < minPrice){
-                minPrice = price;
-            }
+            // if(price < minPrice){
+            //     minPrice = price;
+            // }
+            minPrice = Math.min(price, minPrice);
 
             int profit = price - minPrice;
-            if(profit > maxProfit){
-                maxProfit = profit;
-            }
+            // if(profit > maxProfit){
+            //     maxProfit = profit;
+            // }
+            maxProfit = Math.max(profit, maxProfit);
         }
         return maxProfit;
     }
