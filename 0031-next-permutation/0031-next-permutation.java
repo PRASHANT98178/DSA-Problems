@@ -1,13 +1,16 @@
 class Solution {
-    public static void reverse(int[] arr, int i, int j){
+
+    public void reverse(int[] arr, int i, int j){
         while(i<=j){
             int temp = arr[i];
             arr[i] = arr[j];
-            arr[j] = temp;
+            arr[j]  = temp;
+
             i++;
             j--;
         }
     }
+
     public void nextPermutation(int[] arr) {
         int n = arr.length;
         int idx = -1;
@@ -24,13 +27,14 @@ class Solution {
         }
 
         int j = n-1;
+
         while(arr[j] <= arr[idx]){
             j--;
         }
 
-        int temp = arr[j];
-        arr[j] = arr[idx];
-        arr[idx] = temp;
+        int temp = arr[idx];
+        arr[idx] = arr[j];
+        arr[j] = temp;
 
         reverse(arr, idx+1, n-1);
     }
