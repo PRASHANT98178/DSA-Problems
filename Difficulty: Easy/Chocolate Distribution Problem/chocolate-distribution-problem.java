@@ -10,11 +10,12 @@ class Solution {
         int min = arr.get(j) - arr.get(i);
         
         while(j<n-1){
-            j++;
             i++;
+            j++;
             
             min = Math.min(min, arr.get(j) - arr.get(i));
         }
+        
         return min;
     }
 }
