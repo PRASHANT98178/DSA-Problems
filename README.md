@@ -148,6 +148,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -177,6 +178,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
