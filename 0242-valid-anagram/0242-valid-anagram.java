@@ -14,20 +14,12 @@ class Solution {
 
         if(sortedSb.length() != sortedSb2.length()) return false;
 
-        if(sortedSb.length() > sortedSb2.length()){
+        
             for(int i=0; i<sortedSb.length(); i++){
                 if(sortedSb.charAt(i) != sortedSb2.charAt(i)){
                     return false;
                 }
             }
-        }
-        else {
-            for(int i=0; i<sortedSb2.length(); i++){
-                if(sortedSb2.charAt(i) != sortedSb.charAt(i)){
-                    return false;
-                }
-            }
-        }
 
         
         return true;
