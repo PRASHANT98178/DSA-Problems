@@ -48,21 +48,25 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0322-coin-change) |
+| [0404-sum-of-left-leaves](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Math
 |  |
