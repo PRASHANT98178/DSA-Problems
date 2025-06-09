@@ -43,6 +43,7 @@
 | [0001-two-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
@@ -119,6 +120,7 @@
 | [0056-merge-intervals](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0985-bag-of-tokens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0985-bag-of-tokens) |
 ## Binary Search
@@ -175,6 +177,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
