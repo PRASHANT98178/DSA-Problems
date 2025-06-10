@@ -1,25 +1,24 @@
 class Solution {
-    public List<Integer> copy(List<Integer> arr){
-        List<Integer> list = new ArrayList<>();
-        for(int ele : arr){
-            list.add(ele);
-        }
-        return list;
-    }
+    // public List<Integer> copy(List<Integer> arr){
+    //     List<Integer> list = new ArrayList<>();
+    //     for(int ele : arr){
+    //         list.add(ele);
+    //     }
+    //     return list;
+    // }
     public void helper(TreeNode root, int target,  List<Integer> arr, List<List<Integer>> ans){
         if(root == null) return;
-        if(root.left == null && root.right == null){
-            if(root.val == target){
-                arr.add(root.val);
-                ans.add(arr);
-            }
-            return;
-        }
+        target -= root.val;
         arr.add(root.val);
-        List<Integer> arr1 = copy(arr);
-        List<Integer> arr2 = copy(arr);
-        helper(root.left, target-root.val, arr1, ans);
-        helper(root.right, target-root.val, arr2, ans);
+        if(target == 0 && root.left == null && root.right == null ){
+            ans.add(new ArrayList<>(arr));
+        }
+        // List<Integer> arr1 = copy(arr);
+        // List<Integer> arr2 = copy(arr);
+        helper(root.left, target, arr, ans);
+        helper(root.right, target, arr, ans);
+        arr.remove(arr.size() - 1);
+        
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> ans = new ArrayList<>();
