@@ -193,6 +193,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0242-valid-anagram) |
 | [1250-longest-common-subsequence](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1250-longest-common-subsequence) |
@@ -200,4 +201,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
