@@ -45,6 +45,7 @@
 | [0217-contains-duplicate](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Tree
 |  |
 | ------- |
@@ -198,12 +199,14 @@
 | [0014-longest-common-prefix](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1250-longest-common-subsequence](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1250-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Trie
 |  |
 | ------- |
