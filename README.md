@@ -80,6 +80,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1013-fibonacci-number) |
@@ -107,6 +108,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
