@@ -38,6 +38,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0985-bag-of-tokens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0985-bag-of-tokens) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [1677-matrix-diagonal-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -88,6 +90,7 @@
 | [0062-unique-paths](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1013-fibonacci-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/PRASHANT98178/DSA-Problems/tree/master/2050-count-good-numbers) |
 ## Dynamic Programming
 |  |
@@ -185,6 +188,7 @@
 | [0238-product-of-array-except-self](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1370-count-number-of-nice-subarrays](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -217,6 +221,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1370-count-number-of-nice-subarrays](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1370-count-number-of-nice-subarrays) |
 ## Trie
 |  |
 | ------- |
