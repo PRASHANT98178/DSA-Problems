@@ -37,6 +37,7 @@
 | [0518-coin-change-ii](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0985-bag-of-tokens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0985-bag-of-tokens) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1677-matrix-diagonal-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@
 | [0242-valid-anagram](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -182,6 +184,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Greedy
 |  |
 | ------- |
