@@ -17,6 +17,9 @@ class Solution {
 
             
             count += map.getOrDefault(remainder, 0);
+            // if(map.containsKey(remainder)){
+            //     count += map.get(remainder);
+            // }
 
             
             map.put(remainder, map.getOrDefault(remainder, 0) + 1);
