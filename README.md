@@ -35,6 +35,7 @@
 | [0322-coin-change](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0518-coin-change-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0985-bag-of-tokens](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0985-bag-of-tokens) |
 | [1677-matrix-diagonal-sum](https://github.com/PRASHANT98178/DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
@@ -46,6 +47,7 @@
 | [0219-contains-duplicate-ii](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
 |  |
 | ------- |
@@ -179,6 +181,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/PRASHANT98178/DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Greedy
 |  |
 | ------- |
