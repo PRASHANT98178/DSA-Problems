@@ -10,7 +10,7 @@ class Solution {
                 max2 = max1;
                 max1 = i;
             }
-            else if(i < max1 && i > max2){
+            else if(i > max2 && i < max1){
                 max2 = i;
             }
         }
